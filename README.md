@@ -1,4 +1,3 @@
-Eli - Perfil GitHub
 Olá! 👋 Eu sou Eli, um estudante entusiasta na área de desenvolvimento, atualmente dedicado ao curso de Análise e Desenvolvimento de Sistemas na Uniasselvi. 
 Também estou aprimorando minhas habilidades através do curso de Formação em Tecnologia na Escola DNC.
 
