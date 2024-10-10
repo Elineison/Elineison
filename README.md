@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elineison" alt="elineison" /></a> </p>
 
-- 🔭 I’m currently working on **I’m currently working as a Maintenance Technician at Locktec Tecnologia Integrada**
+- 🔭 I’m currently working as **as a Maintenance Technician at Locktec Tecnologia Integrada**
 
 - 🌱 I’m currently learning **Java and Python, with a focus on Data Science**
 
