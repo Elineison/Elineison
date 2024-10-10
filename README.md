@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **elineisoninacio@gmail.com**
 
-- 📄 Know about my experiences **Know about my experiences in technical maintenance and my transition to web development**
+- 📄 Know about my experiences **in technical maintenance and my transition to web development**
 - ⚡ Fun fact **I’ve been working with complex technical systems for over a decade, but I’m passionate about coding and web development now**
 
 <h3 align="left">Connect with me:</h3>
