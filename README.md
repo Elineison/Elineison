@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **improving my front-end development skills**
 
-- 💬 Ask me about **Ask me about my journey transitioning to web development**
+- 💬 Ask me about **my journey transitioning to web development**
 
 - 📫 How to reach me **elineisoninacio@gmail.com**
 
