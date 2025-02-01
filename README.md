@@ -1,35 +1,42 @@
-<h1 align="center">Hi 👋, I'm Elineison </h1>
-<h3 align="center">A passionate frontend developer from Fortaleza/CE</h3>
+💻 Elineison Inacio de Sousa
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elineison&label=Profile%20views&color=0e75b6&style=flat" alt="elineison" /> </p>
+Técnico de Manutenção | Estudante de Ciência de Dados & Desenvolvimento de Software
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elineison" alt="elineison" /></a> </p>
+📍 Fortaleza, CE | 📧 elineisoninacio@gmail.com 
 
-- 🔭 I’m currently working as **a Maintenance Technician at Locktec Tecnologia Integrada**
+https://www.linkedin.com/in/elineison-inacio-de-sousa/
 
-- 🌱 I’m currently learning **Java and Python, with a focus on Data Science**
+🚀 Sobre Mim
 
-- 👯 I’m looking to collaborate on **front-end web development projects with HTML, CSS, and JavaScript**
+Sou um profissional técnico com mais de uma década de experiência em implantação e manutenção de sistemas de portaria remota, redes e controle de acesso. Atualmente, estou em transição para a área de tecnologia, aprofundando meus conhecimentos em Ciência de Dados, Python e Desenvolvimento de Software.
 
-- 🤝 I’m looking for help with **improving my front-end development skills**
+Minha formação acadêmica inclui Análise e Desenvolvimento de Sistemas (ADS) na Uniasselvi (3 periodo) e Ciência de Dados pela UECE (Residencia em TIC C-Jovem, duração 1 ano). Além disso, concluí programas como Oracle Next Education (ONE) – Java & Banco de Dados e cursos de Desenvolvimento Web (HTML, CSS, JavaScript) pela DNC e Alura.
 
-- 💬 Ask me about **my journey transitioning to web development**
+Atualmente, desenvolvo projetos voltados para visão computacional, reconhecimento facial e IoT, aplicando Python, OpenCV, YOLOv8 e bancos de dados SQL. Busco oportunidades para atuar profissionalmente na área de dados e desenvolvimento backend.
 
-- 📫 How to reach me **elineisoninacio@gmail.com**
+🔧 Tecnologias e Ferramentas
+	•	Linguagens: Python, Java, SQL
+	•	Ciência de Dados & Machine Learning: Pandas, NumPy, Matplotlib, OpenCV, YOLOv8
+	•	Desenvolvimento Web: HTML, CSS, JavaScript
+	•	Banco de Dados: MySQL, PostgreSQL
+	•	DevOps & Redes: Mikrotik, CFTV, Portaria Remota
+	•	Ferramentas: VS Code, Git, Linux
 
-- 📄 Know about my experiences **in technical maintenance and my transition to web development**
-- ⚡ Fun fact **I’ve been working with complex technical systems for over a decade, but I’m passionate about coding and web development now**
+📌 Projetos em Destaque
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/elineison-inacio-de-sousa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/elineison-inacio-de-sousa" height="30" width="40" /></a>
-</p>
+🔹 Detecção de Objetos Esquecidos & Reconhecimento Facial (Em desenvolvimento)
+Sistema de monitoramento inteligente utilizando YOLOv8 e OpenCV para análise de objetos e comportamento em tempo real.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+🔹 ForumHub
+Plataforma para discussão e compartilhamento de conhecimento, desenvolvida com Java e banco de dados SQL.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elineison&show_icons=true&locale=en&layout=compact" alt="elineison" /></p>
+🔹 Análise de Dados de Vendas (Projeto acadêmico)
+Dashboard interativo para análise de vendas por produto e região, utilizando Python, Pandas e Matplotlib.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elineison&show_icons=true&locale=en" alt="elineison" /></p>
+🎯 O Que Estou Buscando?
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elineison&" alt="elineison" /></p>
+🔸 Primeira oportunidade profissional em Ciência de Dados ou Desenvolvimento Backend
+🔸 Projetos colaborativos em visão computacional, automação e análise de dados
+🔸 Aprimorar habilidades em Machine Learning e APIs com Python
+
+📩 Vamos conectar! Entre em contato pelo LinkedIn ou e-mail.
