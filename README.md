@@ -15,12 +15,19 @@ Minha formação acadêmica inclui Análise e Desenvolvimento de Sistemas (ADS) 
 Atualmente, desenvolvo projetos voltados para visão computacional, reconhecimento facial e IoT, aplicando Python, OpenCV, YOLOv8 e bancos de dados SQL. Busco oportunidades para atuar profissionalmente na área de dados e desenvolvimento backend.
 
 🔧 Tecnologias e Ferramentas
+
 	•	Linguagens: Python, Java, SQL
+ 
 	•	Ciência de Dados & Machine Learning: Pandas, NumPy, Matplotlib, OpenCV, YOLOv8
+ 
 	•	Desenvolvimento Web: HTML, CSS, JavaScript
+
 	•	Banco de Dados: MySQL, PostgreSQL
-	•	DevOps & Redes: Mikrotik, CFTV, Portaria Remota
-	•	Ferramentas: VS Code, Git, Linux
+ 
+ 	•	Ferramentas: VS Code, Git, Linux
+ 
+	•	Instalação e Manutenção: Alarmes, CFTV, Portaria Remota, Automatizadores
+ 
 
 📌 Projetos em Destaque
 
