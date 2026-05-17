@@ -1,31 +1,41 @@
 # Elineison Inacio
 
-Security Electronics Specialist | Python Backend Developer | Computer Vision And VMS Integrations
+Security Electronics Specialist | Python Backend Developer | Video Analytics And VMS Operations
 
-I have 16 years of experience in the security electronics ecosystem and currently build software that connects video monitoring operations with backend engineering, computer vision, and observability.
+I have 16 years of experience in the security electronics ecosystem and build software around real monitoring workflows: elevator analytics, carona access events, sidewalk monitoring, VMS integrations, operator alerts, and system health checks.
 
-My recent work focuses on VMS integrations, multi-vendor camera systems, AI-assisted video analytics, alert pipelines, distributed workers, and operational monitoring. I enjoy building systems that are practical for support teams: clear APIs, useful dashboards, fault isolation, and reliable health checks.
+My public repositories are not production dumps. They are sanitized case studies that show how I think about operational problems, backend APIs, video analytics state, alert logic, and supportability while protecting customers, credentials, private camera endpoints, and incident data.
 
 ## Featured Portfolio
 
 - [Portfolio Website](https://elineison.github.io/)
-- [Video Analytics Elevator Demo](https://github.com/Elineison/video-analytics-elevator-demo)
-- [VMS Control Plane Demo](https://github.com/Elineison/vms-control-plane-demo)
-- [Live Stream Gateway Demo](https://github.com/Elineison/live-stream-gateway-demo)
-- [Security Ops Monitoring Demo](https://github.com/Elineison/security-ops-monitoring-demo)
+- [Elevator Dwell Analytics](https://github.com/Elineison/elevator-dwell-analytics)
+- [Carona Access Monitoring](https://github.com/Elineison/carona-access-monitoring)
+- [Sidewalk Safety Monitoring](https://github.com/Elineison/sidewalk-safety-monitoring)
+- [VMS Operations Health Dashboard](https://github.com/Elineison/vms-ops-health-dashboard)
+
+## Case Studies
+
+### Elevator Dwell Analytics
+
+FastAPI service for elevator camera analytics: ROI configuration, person-track duration, dwell-time threshold, cooldown, event payload and health checks.
+
+### Carona Access Monitoring
+
+Access-control case study for carona/tailgating events: short sessions, object counts, detection zones, forbidden zones and operator event modeling.
+
+### Sidewalk Safety Monitoring
+
+Sidewalk camera module with ROI, person track runtime, dwell-time rules, camera health and synthetic evidence for safe portfolio demos.
+
+### VMS Operations Health Dashboard
+
+Operational monitoring layer for video analytics modules, including alert-silence checks for situations where no alert has arrived for days.
 
 ## Main Skills
 
-Python, FastAPI, OpenCV, YOLO, Computer Vision, VMS, Video Analytics, REST APIs, WebSocket, SQLite, Linux, systemd, Observability, Git.
-
-## Professional Focus
-
-- Build backend services for video monitoring and security operations.
-- Design multi-vendor VMS integrations with clean abstractions.
-- Create public-safe AI/video analytics demos from real operational experience.
-- Improve support workflows with health checks, metrics, and clear dashboards.
+Python, FastAPI, OpenCV-oriented architecture, YOLO-oriented analytics flows, REST APIs, WebSocket concepts, SQLite, Linux, systemd, VMS operations, observability, Git, and field-informed troubleshooting.
 
 ## Ethics
 
-My public repositories use synthetic data and demo implementations. They do not expose customer information, production credentials, private camera endpoints, recordings, or proprietary SDK files.
-
+My public repositories use synthetic data and demo implementations. They do not expose customer information, production credentials, private camera endpoints, recordings, proprietary SDK files, alert URLs, or incident history.
