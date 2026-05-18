@@ -1,43 +1,43 @@
 # Elineison Inacio
 
-Security electronics professional building Python systems for video monitoring operations.
+Profissional de segurança eletrônica construindo sistemas Python para operações de monitoramento por vídeo.
 
-I have spent 16 years working close to real security environments: cameras, DVRs/NVRs, access-control routines, monitoring teams, field support and incident workflows. Today I use that background to build backend systems and video analytics tools that are practical for operation, support and troubleshooting.
+Tenho 16 anos de experiência em ambientes reais de segurança: câmeras, DVRs/NVRs, rotinas de controle de acesso, centrais de monitoramento, suporte em campo e fluxos de atendimento a ocorrências. Hoje uso essa vivência para desenvolver sistemas backend e ferramentas de video analytics que sejam práticos para operação, suporte e troubleshooting.
 
-My current work is focused on Python/FastAPI services for elevator dwell analytics, carona access monitoring, sidewalk monitoring, VMS operations, alert flows and health checks. In my public projects, Dahua/Intelbras is treated as one operational platform family, reflecting how I work with this ecosystem in practice.
+Meu trabalho atual é focado em serviços Python/FastAPI para análise de permanência em elevadores, monitoramento de acesso carona, monitoramento de calçadas, operações VMS, fluxos de alerta e health checks. Nos projetos públicos, trato Dahua/Intelbras como uma única família operacional, refletindo a forma como esse ecossistema é trabalhado na prática.
 
-The repositories below are sanitized case studies, not production dumps. They show architecture, APIs and operational reasoning while protecting customers, credentials, private camera endpoints, recordings, SDK files, alert URLs and incident history.
+Os repositórios abaixo são estudos de caso sanitizados, não cópias de produção. Eles mostram arquitetura, APIs e raciocínio operacional sem expor clientes, credenciais, endpoints privados de câmeras, gravações, SDKs proprietários, URLs de alerta ou histórico de incidentes.
 
-## Featured Portfolio
+## Portfólio em Destaque
 
-- [Portfolio Website](https://elineison.github.io/)
-- [Elevator Dwell Analytics](https://github.com/Elineison/elevator-dwell-analytics)
-- [Carona Access Monitoring](https://github.com/Elineison/carona-access-monitoring)
-- [Sidewalk Safety Monitoring](https://github.com/Elineison/sidewalk-safety-monitoring)
-- [VMS Operations Health Dashboard](https://github.com/Elineison/vms-ops-health-dashboard)
+- [Site do Portfólio](https://elineison.github.io/)
+- [Análise de Permanência em Elevadores](https://github.com/Elineison/elevator-dwell-analytics)
+- [Monitoramento de Acesso Carona](https://github.com/Elineison/carona-access-monitoring)
+- [Monitoramento de Calçadas](https://github.com/Elineison/sidewalk-safety-monitoring)
+- [Painel de Saúde Operacional VMS](https://github.com/Elineison/vms-ops-health-dashboard)
 
-## Case Studies
+## Estudos de Caso
 
-### Elevator Dwell Analytics
+### Análise de Permanência em Elevadores
 
-FastAPI service for elevator camera analytics: ROI configuration, person-track duration, dwell-time threshold, cooldown, event payload and health checks.
+Serviço FastAPI para análise de câmeras de elevador: configuração de ROI, duração de track de pessoa, limite de permanência, cooldown, payload de evento e health checks.
 
-### Carona Access Monitoring
+### Monitoramento de Acesso Carona
 
-Access-control case study for carona/tailgating events: short sessions, object counts, detection zones, forbidden zones and operator event modeling.
+Estudo de caso para eventos de acesso carona/tailgating: sessões curtas, contagem de objetos, zonas de detecção, zonas proibidas e modelagem de eventos para operação.
 
-### Sidewalk Safety Monitoring
+### Monitoramento de Calçadas
 
-Sidewalk camera module with ROI, person track runtime, dwell-time rules, camera health and synthetic evidence for safe portfolio demos.
+Módulo de monitoramento de calçadas com ROI, runtime de track de pessoa, regras de permanência, saúde de câmera e evidência sintética para demonstrações públicas.
 
-### VMS Operations Health Dashboard
+### Painel de Saúde Operacional VMS
 
-Operational monitoring layer for video analytics modules, including alert-silence checks for situations where no alert has arrived for days.
+Camada de monitoramento operacional para módulos de video analytics, incluindo checagens de silêncio de alerta quando nenhum evento chega por vários dias.
 
-## Main Skills
+## Principais Competências
 
-Python, FastAPI, OpenCV-oriented architecture, YOLO-oriented analytics flows, REST APIs, WebSocket concepts, SQLite, Linux, systemd, Dahua/Intelbras platform operations, VMS support, observability, Git and field-informed troubleshooting.
+Python, FastAPI, arquitetura orientada a OpenCV, fluxos de analytics orientados a YOLO, REST APIs, conceitos de WebSocket, SQLite, Linux, systemd, operação Dahua/Intelbras, suporte VMS, observabilidade, Git e troubleshooting com visão de campo.
 
-## Ethics
+## Ética
 
-My public repositories use synthetic data and demo implementations. They do not expose customer information, production credentials, private camera endpoints, recordings, proprietary SDK files, alert URLs or incident history.
+Meus repositórios públicos usam dados sintéticos e implementações demonstrativas. Eles não expõem informações de clientes, credenciais de produção, endpoints privados de câmeras, gravações, SDKs proprietários, URLs de alerta ou histórico de incidentes.
