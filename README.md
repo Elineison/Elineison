@@ -1,10 +1,10 @@
 # Elineison Inacio
 
-Profissional de segurança eletrônica e backend Python/FastAPI para operações de vídeo, streaming em tempo real, integrações e video analytics.
+Profissional de tecnologia aplicada a vídeo e backend Python/FastAPI para operações de vídeo, streaming em tempo real, integrações e video analytics.
 
 Neste portfólio, VMS significa Sistema de Gerenciamento de Vídeo: a camada que centraliza câmeras, DVRs/NVRs, streams ao vivo, gravações, eventos, alertas e integrações. É essa base que conecta o vídeo em tempo real aos módulos de detecção, APIs operacionais e health checks.
 
-Atuo em ambientes reais de monitoramento, suporte técnico, câmeras, DVRs/NVRs, controle de acesso, integração de servidores e fluxos operacionais. Meu foco é construir sistemas que conectam visualização ao vivo, módulos de detecção, alertas e health checks em uma operação única.
+Atuo em ambientes reais com câmeras, DVRs/NVRs, controle de acesso, servidores de vídeo, suporte técnico e fluxos operacionais. Meu foco é construir sistemas de análise que conectam visualização ao vivo, módulos de detecção, alertas e health checks, com aplicação em portarias remotas, ambientes prediais, perímetros, elevadores, calçadas e outros cenários com vídeo em tempo real.
 
 Trabalho com Hikvision e Intelbras. Nos projetos públicos, essa experiência aparece em versões sanitizadas dos sistemas: sem dados de clientes, IPs privados, credenciais, gravações, SDKs proprietários ou endpoints reais.
 
