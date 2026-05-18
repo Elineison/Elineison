@@ -2,7 +2,7 @@
 
 Profissional de segurança eletrônica e backend Python/FastAPI para operações VMS (Sistema de Gerenciamento de Vídeo), streaming de vídeo em tempo real e video analytics.
 
-Neste portfólio, VMS significa Sistema de Gerenciamento de Vídeo: a camada que centraliza câmeras, DVRs/NVRs, streams ao vivo, gravações, eventos, alertas e integrações. É essa base que conecta o vídeo em tempo real aos módulos de detecção, APIs operacionais e health checks.
+Neste portfólio, VMS(Sistema de Gerenciamento de Vídeo): a camada que centraliza câmeras, DVRs/NVRs, streams ao vivo, gravações, eventos, alertas e integrações. É essa base que conecta o vídeo em tempo real aos módulos de detecção, APIs operacionais e health checks.
 
 Atuo em ambientes reais de monitoramento, suporte técnico, câmeras, DVRs/NVRs, controle de acesso, integração de servidores e fluxos operacionais. Meu foco é construir sistemas que conectam visualização ao vivo, módulos de detecção, alertas e health checks em uma operação única.
 
